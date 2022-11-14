@@ -1,2 +1,4 @@
-# divyaanandhan.github.io
-divyaanandhan.github.io
+NEW TO GITHUB
+
+
+this is my first repository
